@@ -1,0 +1,1 @@
+"This file includes project background, goals, and stakeholder list for Retail Galaxy's ERP implementation." 
