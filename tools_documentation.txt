@@ -1,0 +1,1 @@
+"This file documents the team's use of GitHub, Trello, and IEEE referencing for the ERP project report." 
